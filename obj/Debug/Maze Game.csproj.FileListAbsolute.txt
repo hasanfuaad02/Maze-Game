@@ -1,0 +1,7 @@
+D:\My coding\Maze Game\obj\Debug\Maze Game.csproj.CoreCompileInputs.cache
+D:\My coding\Maze Game\bin\Debug\Maze Game.exe.config
+D:\My coding\Maze Game\bin\Debug\Maze Game.exe
+D:\My coding\Maze Game\bin\Debug\Maze Game.pdb
+D:\My coding\Maze Game\obj\Debug\Maze Game.exe
+D:\My coding\Maze Game\obj\Debug\Maze Game.pdb
+D:\My coding\Maze Game\obj\Debug\Maze Game.csprojAssemblyReference.cache
